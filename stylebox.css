@@ -1,0 +1,36 @@
+.container {
+  border: 6px solid red;
+  width: 1000px;
+  height: 800px;
+}
+.box {
+  border: 6px solid red;
+  width: 200;
+  height: 100;
+  margin: 20px;
+}
+.Thirdbox {
+  border: 6p solid red;
+}
+.box1 {
+  border: 6px solid red;
+  margin: 6px;
+  padding: 0px;
+}
+.box2 {
+  border: 6px solid red;
+  margin: 6px;
+  padding: 0px;
+}
+.ul {
+  margin: 0px;
+  padding: 0px;
+}
+.buttons {
+  border: 6px solid red;
+  width: 50px;
+}
+.links {
+  border: 6px solid red;
+  width: 50px;
+}
