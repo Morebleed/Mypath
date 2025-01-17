@@ -1,0 +1,45 @@
+.container {
+  background-color: solid azure;
+  width: 1000px;
+  height: 800px;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: ;
+}
+.circle {
+  background-color: orangered;
+  width: 300px;
+  height: 250px;
+  margin-right: 10px;
+}
+.wane {
+  background-color: green;
+  width: 300px;
+  height: 250px;
+  margin-right: 10px;
+}
+.cho {
+  background-color: pink;
+  width: 300px;
+  height: 250px;
+  margin-right: 10px;
+}
+.po {
+  background-color: olive;
+  width: 300px;
+  height: 250px;
+  margin-right: 10px;
+}
+.homer {
+  background-color: orange;
+  width: 300px;
+  height: 250px;
+  margin-right: 10px;
+}
+.sane {
+  background-color: goldenrod;
+  width: 300px;
+  height: 250px;
+  margin-right: 10px;
+}

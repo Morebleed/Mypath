@@ -1,0 +1,98 @@
+.container {
+  width: 800px;
+  height: 500px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-items: center;
+}
+.son {
+  background-color: green;
+  width: 130px;
+  height: 120px;
+}
+.hijo {
+  background-color: orange;
+  width: 130px;
+  height: 120px;
+}
+.hija {
+  background-color: greenyellow;
+  width: 130px;
+  height: 120px;
+}
+.cro {
+  background-color: orange;
+  width: 130px;
+  height: 120px;
+}
+.oka {
+  background-color: gold;
+  width: 130px;
+  height: 120px;
+}
+.saw {
+  background-color: aqua;
+  width: 130px;
+  height: 120px;
+}
+.don {
+  background-color: blueviolet;
+  width: 130px;
+  height: 120px;
+}
+.jon {
+  background-color: palegoldenrod;
+  width: 130px;
+  height: 120px;
+}
+.pol {
+  background-color: greenyellow;
+  width: 130px;
+  height: 120px;
+}
+.jal {
+  background-color: tomato;
+  width: 130px;
+  height: 120px;
+}
+.way {
+  background-color: hotpink;
+  width: 130px;
+  height: 120px;
+}
+.boy {
+  background-color: khaki;
+  width: 130px;
+  height: 120px;
+}
+.soy {
+  background-color: firebrick;
+  width: 130px;
+  height: 120px;
+}
+.gat {
+  background-color: brown;
+  width: 130px;
+  height: 120px;
+}
+.loco {
+  background-color: saddlebrown;
+  width: 130px;
+  height: 120px;
+}
+.pen {
+  background-color: indianred;
+  width: 130px;
+  height: 120px;
+}
+.app {
+  background-color: burlywood;
+  width: 130px;
+  height: 120px;
+}
+.lok {
+  background-color: lavender;
+  width: 130px;
+  height: 120px;
+}

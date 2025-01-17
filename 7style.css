@@ -1,0 +1,104 @@
+.container {
+  width: 1000px;
+  height: 800px;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+.beams {
+  width: 450px;
+  height: 600px;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+}
+.long {
+  background-color: orangered;
+  width: 440px;
+  height: 150px;
+}
+.cube {
+  background-color: crimson;
+  width: 220px;
+  height: 150px;
+}
+.que {
+  background-color: saddlebrown;
+  width: 210px;
+  height: 150px;
+}
+.sera {
+  background-color: tan;
+  width: 440px;
+  height: 300px;
+}
+.sara {
+  width: 450px;
+  height: 600px;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+}
+.main3 {
+  width: 450px;
+  height: 300px;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  gap: 10px;
+}
+.bolt {
+  background-color: aqua;
+  width: 220px;
+  height: 150px;
+}
+.pol {
+  background-color: green;
+  width: 220px;
+  height: 150px;
+}
+.lok {
+  background-color: brown;
+  width: 220px;
+  height: 150px;
+}
+.sec3 {
+  width: 450px;
+  height: 300px;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  gap: 10px;
+}
+.son {
+  background-color: salmon;
+  width: 220px;
+  height: 150px;
+}
+.hija {
+  background-color: orangered;
+  width: 220px;
+  height: 150px;
+}
+.com {
+  background-color: cadetblue;
+  width: 220px;
+  height: 150px;
+}
+.to {
+  width: 950px;
+  height: 150px;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+.tlong {
+  background-color: orchid;
+  width: 670px;
+  height: 150px;
+}
+.smo {
+  background-color: aquamarine;
+  width: 220px;
+  height: 150px;
+}
