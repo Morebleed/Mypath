@@ -1,0 +1,59 @@
+.container {
+  width: 1000px;
+  height: 800px;
+  display: flex;
+  gap: 15px;
+}
+.bigred {
+  width: 400px;
+  height: 700px;
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+}
+.bell {
+  background-color: orange;
+  width: 400px;
+  height: 150px;
+}
+.end {
+  background-color: crimson;
+  width: 400px;
+  height: 300px;
+}
+.goblin {
+  width: 400px;
+  height: 700px;
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+}
+.narrow {
+  background-color: green;
+  width: 400px;
+  height: 150px;
+}
+.layers {
+  background-color: salmon;
+  width: 400px;
+  height: 300px;
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+}
+.box {
+  background-color: greenyellow;
+  width: 380px;
+  height: 160px;
+  margin-top: 10px;
+}
+.slam {
+  background-color: lavender;
+  width: 180px;
+  height: 120px;
+}
+.pa {
+  background-color: firebrick;
+  width: 180px;
+  height: 120px;
+}
